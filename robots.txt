@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pearpath.tech/sitemap.xml
